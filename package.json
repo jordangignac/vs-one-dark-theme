@@ -13,7 +13,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "<place_holder>"
+        "url": "https://github.com/jordangignac/vs-one-dark-theme"
     },
     "contributes": {
         "themes": [
