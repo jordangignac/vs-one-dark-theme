@@ -5,6 +5,7 @@
     "description": "One Dark UI & Icon Theme",
     "icon": "assets/icon.png",
     "publisher": "jordang",
+    "license": "MIT",
     "engines": {
         "vscode": "^1.25.0"
     },
