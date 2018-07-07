@@ -515,6 +515,7 @@
         ".nvmrc": "_f_settings",
         "vagrantfile": "_f_settings",
         "yarn.lock": "_f_yarn",
+        ".yarnclean": "_f_yarn",
         "Procfile": "_f_procfile"
     },
     "hidesExplorerArrows": true,
