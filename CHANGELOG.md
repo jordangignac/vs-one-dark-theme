@@ -1,3 +1,6 @@
+## Version 0.0.4
+- Updates to changelog pushed to marketplace
+
 ## Version 0.0.3
 - Marketplace extension display name fix
 
