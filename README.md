@@ -1,13 +1,7 @@
-# README
-## This is the README for your extension "vs-one-dark-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# VS One Dark Theme
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+A color and icon theme based on the popular [Atom One Dark Theme](https://github.com/akamud/vscode-theme-onedark) and [Ayu Icons](https://github.com/teabyii/vscode-ayu).
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+### Credit
+* [akamud/vscode-theme-onedark](https://github.com/akamud/vscode-theme-onedark)
+* [teabyii/vscode-ayu](https://github.com/teabyii/vscode-ayu)
