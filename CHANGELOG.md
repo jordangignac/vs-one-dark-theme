@@ -1,5 +1,3 @@
-# Change Log
-
 ## Version 0.0.3
 - Marketplace extension display name fix
 
