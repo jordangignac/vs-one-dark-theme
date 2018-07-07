@@ -416,6 +416,7 @@
         "json": "_f_json",
         "webmanifest": "_f_node",
         "nvmrc": "_f_node",
+        "node-version": "_f_node",
         "npmignore": "_f_npm",
         "ml": "_f_ocaml",
         "mll": "_f_ocaml",
