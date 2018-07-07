@@ -1,0 +1,34 @@
+{
+    "version": "0.0.2",
+    "name": "vs-one-dark-theme",
+    "displayName": "vs-one-dark-theme",
+    "description": "One Dark UI & Icon Theme",
+    "icon": "assets/icon.png",
+    "publisher": "jordang",
+    "engines": {
+        "vscode": "^1.25.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "<place_holder>"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "VS One Dark Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/VS One Dark Theme-color-theme.json"
+            }
+        ],
+        "iconThemes": [
+            {
+                "id": "vs-one-dark-icons",
+                "label": "VS One Dark Icons",
+                "path": "./icon-theme.json"
+            }
+        ]
+    }
+}
