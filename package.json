@@ -1,7 +1,7 @@
 {
     "version": "0.0.2",
     "name": "vs-one-dark-theme",
-    "displayName": "vs-one-dark-theme",
+    "displayName": "VS One Dark Theme",
     "description": "One Dark UI & Icon Theme",
     "icon": "assets/icon.png",
     "publisher": "jordang",
