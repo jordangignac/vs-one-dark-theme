@@ -509,6 +509,7 @@
         "license": "_f_license",
         "license.md": "_f_license",
         "package.json": "_f_npm",
+        "package-lock.json": "_f_npm",
         ".travis.yml": "_f_settings",
         ".nvmrc": "_f_settings",
         "vagrantfile": "_f_settings",
