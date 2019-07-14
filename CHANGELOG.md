@@ -1,3 +1,6 @@
+## Version 0.0.5
+- Fix for React icon centering issue
+
 ## Version 0.0.4
 - Updates to changelog pushed to marketplace
 
